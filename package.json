@@ -1,0 +1,12 @@
+{
+  "name": "jsgoodies",
+  "version": "1.0.0",
+  "description": "Anytime I find something cool about js, it goes in here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"node "
+  },
+  "author": "Tristan Elliott ----> Twitter ----> @PlebDevTristan",
+  "license": "ISC"
+}
